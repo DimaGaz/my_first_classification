@@ -1,2 +1,2 @@
 # Introduction
-In this project I will use a well known database for pattern recognition exercises, Iris Species. The data was downloaded from the following [link](https://www.kaggle.com/datasets/uciml/iris?datasetId=19&sortBy=voteCount).
+In this project I will use a well known database for pattern recognition exercises, Iris Species. The data was downloaded from the following [link](https://www.kaggle.com/datasets/uciml/iris?datasetId=19&sortBy=voteCount). It is noteworthy to mention, that the [scikit-learn](https://scikit-learn.org/stable/datasets/toy_dataset.html) library comes with a few small standard datasets that do not require to download any file from some external website, including Iris Species.
